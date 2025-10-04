@@ -23,16 +23,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+        },{id: "news-i-am-happy-to-share-that-discover-automated-curricula-for-sparse-reward-reinforcement-learning-has-been-accepted-at-neurips-2025",
+          title: 'I am happy to share that DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning...',
           description: "",
           section: "News",},{
       id: 'light-theme',
