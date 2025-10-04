@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-09-20
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am happy to share that DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning has been accepted at NeurIPS 2025.
