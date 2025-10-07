@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master student at ETH Zürich and a student researcher at the Learning and Adaptive Systems group.
+I am a master student at ETH Zürich and a student researcher at the Learning and Adaptive Systems group.
 
-My research aims to create algorithms that drive more efficient learning and decision-making from large-scale data. My latest projects explored sparse-reward reinforcement learning and test-time training.
+My research aims to create algorithms that drive more efficient learning and decision-making from large-scale data. My latest projects explored sparse-reward reinforcement learning and test-time training. Beyond this, I am generally interested in the mathematical foundations of learning.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
