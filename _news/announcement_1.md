@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am happy to share that [DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning has been accepted at NeurIPS 2025](https://arxiv.org/pdf/2510.04786).
+I am happy to share that [DISCOVER: Automated Curricula for Sparse-Reward Reinforcement Learning](https://arxiv.org/pdf/2510.04786) has been accepted at NeurIPS 2025.
