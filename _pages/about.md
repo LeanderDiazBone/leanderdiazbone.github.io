@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master Student and Student Researcher at ETH Zürich #<a href='#'>Affiliations</a>. 
+subtitle: PhD Student at ETH Zürich #<a href='#'>Affiliations</a> and MPI for Intelligent Systems. 
 
 profile:
   align: right
