@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at ETH Zürich #<a href='#'>Affiliations</a> and MPI for Intelligent Systems. 
+subtitle: CLS PhD Student at ETH Zürich and MPI for Intelligent Systems. #<a href='#'>Affiliations</a> 
 
 profile:
   align: right
